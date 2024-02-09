@@ -2,9 +2,9 @@
 
 # Project Name
 
-> odin_recipes.
+> Odin recipes.
 
-![screenshot](./app_screenshot.png)
+![previewor del projecto](<Captura de pantalla 2024-02-09 .png>).png
 
 Additional description about the project and its features.
 
@@ -52,17 +52,15 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rafaelb056/odin_recipes/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+muchas gracias por el apoyo
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- gracias profesor aristides
 
 ## 📝 License
 
