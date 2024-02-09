@@ -6,7 +6,7 @@
 
 ![previewor del projecto](<Captura de pantalla 2024-02-09 .png>).png
 
-Additional description about the project and its features.
+esto es un projecto sobre como hacer reseta en html 
 
 ## Built With
 
