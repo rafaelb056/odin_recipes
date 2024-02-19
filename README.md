@@ -4,8 +4,7 @@
 
 > Odin recipes.
 
-![previewor del projecto](<Captura de pantalla 2024-02-09 .png>).png
-
+![previewor del projecto](<Captura de pantalla 2024-02-19 133811-1.png>)
 esto es un projecto sobre como hacer reseta en html 
 
 ## Built With
