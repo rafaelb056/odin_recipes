@@ -14,7 +14,7 @@ esto es un projecto sobre como hacer reseta en html
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rafaelb056.github.io/odin_recipes)
 
 
 ## Getting Started
