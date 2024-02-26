@@ -3,5 +3,5 @@ body{
   background-color: #2be896;
 }
 p > a {
-  background-color: aqua;
+  text-decoration: solid;
 }
