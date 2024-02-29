@@ -2,6 +2,22 @@ body{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: #2be896;
 }
-p > a {
+p > a{
   text-decoration: solid;
+
+}
+.nachos{
+  background-color:	#dfd615;
+  padding: 0 8px;
+  text-align: center;
+}
+.guacamoles{
+  background-color: rgb(113, 146, 47);
+  padding: 0 8px;
+  text-align: center;
+}
+
+div{
+  background-color: aqua;
+  width: 400px;
 }
