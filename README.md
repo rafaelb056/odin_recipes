@@ -59,7 +59,7 @@ muchas gracias por el apoyo
 
 ## Acknowledgments
 
-- gracias profesor aristides
+- gracias al profesor aristides
 
 ## 📝 License
 
